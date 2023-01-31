@@ -1,0 +1,12 @@
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\bin\Debug\net7.0\MyLib.deps.json
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\bin\Debug\net7.0\MyLib.dll
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\bin\Debug\net7.0\MyLib.pdb
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\MyLib.csproj.AssemblyReference.cache
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\MyLib.AssemblyInfo.cs
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\MyLib.dll
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\refint\MyLib.dll
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\MyLib.pdb
+C:\Users\Aydar\source\repos\OOP\Lab2\MyLib\obj\Debug\net7.0\ref\MyLib.dll
